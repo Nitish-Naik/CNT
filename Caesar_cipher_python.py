@@ -1,4 +1,3 @@
-# encrypt
 
 def caesar_cipher(plaintext, shift):
     encrypted = []
