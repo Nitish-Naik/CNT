@@ -1,7 +1,3 @@
-# Python program to implement Playfair Cipher
-
-# Function to convert the string to lowercase
-
 
 def toLowerCase(text):
     return text.lower()
@@ -174,5 +170,3 @@ CipherText = ""
 for i in CipherList:
     CipherText += i
 print("CipherText:", CipherText)
-
-# This code is Contributed by Boda_Venkata_Nikith
